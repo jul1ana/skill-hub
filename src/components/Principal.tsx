@@ -1,6 +1,6 @@
 import { Banner } from "@/shared/Banner";
 
-export function Main() {
+export function Principal() {
   return (
     <section className="md:px-12 p-4 max-w-screen-2xl mx-auto mt-24">
       <Banner
