@@ -23,7 +23,7 @@ export function Header() {
 
   return (
     <header>
-      <nav className="max-w-screen-2xl mx-auto md:px-14 p-4 bg-white text-primary z-50 fixed top-0 right-0 left-0">
+      <nav className="max-w-screen-2xl mx-auto md:px-14 p-4 bg-white text-primary border-b z-50 fixed top-0 right-0 left-0">
         <div className="container mx-auto flex justify-between items-center text-lg font-medium">
           <div className="flex space-x-14 items-center">
             <Link href="/" className="text-2xl font-semibold flex items-center space-x-3 text-primary">
